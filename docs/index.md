@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# What does astrology have to do with famous people?
+
 
 You can use the [editor on GitHub](https://github.com/simoneengelbr/twitter_zodiac/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
