@@ -1,3 +1,5 @@
+<span style="color:blue">#What does astrology have to do with famous people?</span>
+
 # [What does astrology have to do with famous people?](#)
-<span style="color:blue">some *blue* text</span>.
+<span style="color:#87CEEB">some *blue* text</span>.
 
