@@ -1,3 +1,3 @@
-# What does astrology have to do with famous people?
+# [What does astrology have to do with famous people?](#)
 
 
