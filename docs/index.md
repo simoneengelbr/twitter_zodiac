@@ -4,3 +4,4 @@ In a decade in which technology gained the power, social media started to play a
 
 ![TwitterLogo](TwitterLogo.png)
 
+## **<span style="color:#87CEEB">What does astrology have to do with famous people?</span>**
