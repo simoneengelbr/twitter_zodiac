@@ -1,7 +1,6 @@
-theme: jekyll-theme-hacker
 title: <span style="color:#87CEEB">Zodiac Graphs and Interactions</span>
 logo: HeaderImage.jpg
 description: Lucía Montesinos García, Irina Ioana Avadanei, Simone Elisabeth Engelbrecht
 show_downloads: true
-
+theme: jekyll-theme-dark
 
