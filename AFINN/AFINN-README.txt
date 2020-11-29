@@ -41,3 +41,8 @@ In Python the file may be read into a dictionary with:
 2
 
 
+EDIT - For Python3:
+>>> afinn = dict(map(lambda kv: (kv[0],int(kv[1])), 
+                     [ line.split('\t') for line in open("AFINN-111.txt") ]))
+
+
