@@ -9,7 +9,7 @@ With a little help from the Twitter API, the most followed accounts of famous pe
 
  <img src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/images/Cancer_wordcloud.png?token=AK2UC2IIUXD5LFELZ6D575C7ZYZ6G" width="650"><img src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/images/Scorpio_wordcloud.png?token=AK2UC2NSCMMC4JYSJMCGLES7ZY2DW" width="650">
  
-![Scorpio_wordcloud](Scorpio_wordcloud.png){ width=50% height=50% }
+
  
- ![Scorpio_wordcloud](Scorpio_wordcloud.png)![Pisces_wordcloud](Pisces_wordcloud.png)
+![Scorpio_wordcloud](Scorpio_wordcloud.png)![Pisces_wordcloud](Pisces_wordcloud.png)
 
