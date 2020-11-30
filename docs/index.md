@@ -7,7 +7,7 @@ Living in a decade in which technology gained the power, social media started to
 With a little help from the Twitter API, the most followed accounts of famous people together with their handle, number of following accounts, and their last 50 Tweets from the past week (16/11/2020 - 20/11/2020) were been collected. Wikipedia API was also used to extract the birthday of those famous people. These actions have been done to be able to determine the **[zodiac sign](https://askastrology.com/zodiac-signs/)** of every person and also establish to which **[element](https://astrostyle.com/learn-astrology/the-elements-fire-earth-air-and-water-signs/)** does that sign belongs. This information is compressed in a ??MB csv file. For more detailed information, please visit the Explainer Notebook. 
 
 
- <img src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/images/Cancer_wordcloud.png?token=AK2UC2IIUXD5LFELZ6D575C7ZYZ6G" width="650">  <img src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/images/Scorpio_wordcloud.png?token=AK2UC2NSCMMC4JYSJMCGLES7ZY2DW" width="650">
+ <img src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/images/Cancer_wordcloud.png?token=AK2UC2IIUXD5LFELZ6D575C7ZYZ6G" width="650"><img src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/images/Scorpio_wordcloud.png?token=AK2UC2NSCMMC4JYSJMCGLES7ZY2DW" width="650">
  
  
  
