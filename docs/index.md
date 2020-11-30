@@ -8,4 +8,4 @@ With a little help from the Twitter API, the most followed accounts of famous pe
 
 
 ![Cancer_wordcloud](Cancer_wordcloud.png)
-![Aquarius_wordcloud](/images/Aquarius_wordcloud.png)
+![Aquarius_wordcloud](../images/Aquarius_wordcloud.png)
