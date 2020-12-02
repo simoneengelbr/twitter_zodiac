@@ -8,3 +8,5 @@ With a little help from the Twitter API, the most followed accounts of famous pe
 
 ![ElementWater](ElementWater.png)
 ![ElementEarth](ElementEarth.png)
+![ElementFire](ElementFire.png)
+![ElementAir](ElementAir.png)
