@@ -154,19 +154,7 @@ dt {
   font-weight: normal;
 }
 
-
-#header {
-  z-index: 100;
-  left:0;
-  top: 0px;
-  height: 60px;
-  width: 100%;
-  position: fixed;
-  background: url(../images/nav-bg.gif) #000000;
-  border-bottom: 4px solid #434343;
-  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
-
-  nav {
+ nav {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 10px;
@@ -223,7 +211,7 @@ dt {
       }
     }
   }
-}
+
 
 section {
   max-width:1200px;
