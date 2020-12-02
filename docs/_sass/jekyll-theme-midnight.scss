@@ -278,6 +278,10 @@ section {
         float: none;
         display: block;
       }
+       &.fork {
+        float: center;
+        margin-left: 0px;
+      }
     }
   }
 }
