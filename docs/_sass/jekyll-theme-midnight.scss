@@ -9,9 +9,6 @@ body {
   color:#f0e7d5;
   font-weight: normal;
   background: url("https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/_sass/prokhor-minin-lYTDZKD77xk-unsplash.jpg?token=AK2UC2NU7N6TUF22U5IURAC72DK5O") no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   background-attachment: fixed !important;
  
@@ -80,7 +77,7 @@ strong {
 }
 
 .wrapper {
-  max-width:900px;
+  max-width:1200px;
   margin:0 auto;
   position:relative;
   padding: 0 20px;
