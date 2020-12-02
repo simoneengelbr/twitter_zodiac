@@ -195,7 +195,7 @@ dt {
       }
 
       &.fork {
-        float: left;
+        float: right;
         margin-left: 0px;
       }
 
@@ -278,10 +278,7 @@ section {
         float: none;
         display: block;
       }
-       &.fork {
-        float: center;
-        margin-left: 0px;
-      }
+     
     }
   }
 }
