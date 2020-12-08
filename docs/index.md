@@ -8,14 +8,16 @@ With a little help from the Twitter API, the most followed accounts of famous pe
 
 # **<span style="color:#8a7e4a">How does the network looks like?</span>**
 
-This network has a total of 2037 nodes and 124721 links. Each node is represented by a personality's zodiac sign and each link represents how they are connected. 
+Before starting analysing 
+The data that was gathered was first used to plot the network to have a quick overview on the connections. 
+This network has a total of 2037 nodes and 124721 links. Each node is represented by a personality's zodiac sign and each link represents how they are connected.  
 
 ![Network](Network.jpeg)
 
-At a first look, this representation does not provide many information. However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
+At a first look, this representation does not provide many information. Many people might ask: good, but what does this mean? However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
 ![InOutDegree](InOutDegree.jpg)
 
-# **<span style="color:#8a7e4a">Content analysis?</span>**
+# **<span style="color:#8a7e4a">Content analysis</span>**
 
 When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is already known that some zodiac signs tend to be more sensible, other ones more harsh and others do not even want to share what they truly think with other people. 
  
@@ -23,3 +25,6 @@ When it comes to the language used, in the social media area it is very personal
 ![ElementEarth](ElementEarth.png)
 ![ElementFire](ElementFire.png)
 ![ElementAir](ElementAir.png)
+
+# **<span style="color:#8a7e4a">Sentiment of the tweets</span>**
+# **<span style="color:#8a7e4a">Comunities</span>**
