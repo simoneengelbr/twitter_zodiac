@@ -6,6 +6,14 @@ Living in a decade in which technology gained the power, social media started to
 
 With a little help from the Twitter API, the most followed accounts of famous people together with their handle, number of following accounts, and their last 50 Tweets from the past week (16/11/2020 - 20/11/2020) were been collected. Wikipedia API was also used to extract the birthday of those famous people. These actions have been done to be able to determine the **[zodiac sign](https://askastrology.com/zodiac-signs/)** of every person and also establish to which **[element](https://astrostyle.com/learn-astrology/the-elements-fire-earth-air-and-water-signs/)** does that sign belongs. This information is compressed in a ??MB csv file. For more detailed information, please visit the Explainer Notebook. 
 
+# **<span style="color:#8a7e4a">How does the network looks like?</span>**
+
+This network has a total of 2037 nodes and 124721 links. Each node is represented by a personality's zodiac sign and each link represents how they are connected. 
+
+![Network](Network.jpeg)
+
+At a first look, this representation does not provide many information. However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
+
 ![ElementWater](ElementWater.png)
 ![ElementEarth](ElementEarth.png)
 ![ElementFire](ElementFire.png)
