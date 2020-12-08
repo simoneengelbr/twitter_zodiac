@@ -13,7 +13,12 @@ This network has a total of 2037 nodes and 124721 links. Each node is represente
 ![Network](Network.jpeg)
 
 At a first look, this representation does not provide many information. However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
+![InOutDegree](InOutDegree.jpg)
 
+# **<span style="color:#8a7e4a">Content analysis?</span>**
+
+When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is already known that some zodiac signs tend to be more sensible, other ones more harsh and others do not even want to share what they truly think with other people. 
+ 
 ![ElementWater](ElementWater.png)
 ![ElementEarth](ElementEarth.png)
 ![ElementFire](ElementFire.png)
