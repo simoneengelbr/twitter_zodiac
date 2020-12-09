@@ -31,5 +31,5 @@ When it comes to the language used, in the social media area it is very personal
 
 # **<span style="color:#8a7e4a">Sentiment of the tweets</span>**
 # **<span style="color:#8a7e4a">Comunities</span>**
-![Zodiac_distribution_comunities](Zodiac_distribution_comunities.png)
-![Element_distribution_comunities](Element_distribution_comunities.png)
+![Zodiac_distribution_communities](Zodiac_distribution_communities.png)
+![Element_distribution_communities](Element_distribution_communities.png)
