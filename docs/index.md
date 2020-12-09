@@ -36,7 +36,7 @@ When it comes to the language used, in the social media area it is very personal
 # **<span style="color:#8a7e4a">Communities</span>**
 
 <p align="center">
-  <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/community_distribution.png?token=AK2UC2PIWU7MEVB5Y5LG7WC73HZIQ">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentCommunityDistribution.png?token=AK2UC2PVGJD7FV5OOKLEZGK73ILSO">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ When it comes to the language used, in the social media area it is very personal
 </p>
 
 <p align="center">
-  <img width="1200" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Element_distribution_communities.png?token=AK2UC2PUN4ZTBMIARPP2GNK73H2X4">
+  <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentElementDistributionCommunity.png?token=AK2UC2LK2PCHVZWQXWGW6SK73ILQM">
 </p>
 
 # **<span style="color:#8a7e4a">Sentiment of the communities</span>**
