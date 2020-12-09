@@ -52,7 +52,11 @@ When it comes to the language used, in the social media area it is very personal
   <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/average_sentiment_zodiac.png?token=AK2UC2IDQELLB4AEF4BIPV273HZVO">
 </p>
 
-![Transparent](Transparent.png)
+
+<p align="center">
+  <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?token=AK2UC2MSNPSAO5Q6ECCDW2K73IDYU">
+</p>
+
 
 <p align="center">
   <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/average_sentiment_community.png?token=AK2UC2L7EG5XB6KH5ZYQM4S73HZYK">
