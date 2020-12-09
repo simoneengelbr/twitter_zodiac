@@ -21,10 +21,17 @@ The in-out degree distribution graph is another way of showing how people intera
 # **<span style="color:#8a7e4a">Content analysis</span>**
 
 When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is already known that some zodiac signs tend to be more sensible, other ones more harsh and others do not even want to share what they truly think with other people. To get a better understanding 
- 
+
+## **<span style="color:#8a7e4a">Water>**
 ![ElementWater](ElementWater.png)
+  
+## **<span style="color:#8a7e4a">Earth>**
 ![ElementEarth](ElementEarth.png)
+  
+## **<span style="color:#8a7e4a">Fire>**
 ![ElementFire](ElementFire.png)
+  
+## **<span style="color:#8a7e4a">Air>**
 ![ElementAir](ElementAir.png)
 
 
