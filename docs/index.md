@@ -36,6 +36,10 @@ When it comes to the language used, in the social media area it is very personal
   <img width="1000" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/community_distribution.png?token=AK2UC2PIWU7MEVB5Y5LG7WC73HZIQ">
 </p>
 
+<p align="center">
+  <img width="1000" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Zodiac_distribution_communities.png?token=AK2UC2JG6WDTYRI6AST4OPS73H2F4">
+</p>
+
 ![Zodiac_distribution_communities](Zodiac_distribution_communities.png)
 ![Element_distribution_communities](Element_distribution_communities.png)
 
