@@ -20,7 +20,7 @@ This network has a total of 2037 nodes and 124721 links. Each node is represente
 At a first look, this representation does not provide many information. Many people might ask: good, but what does this mean? However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
 
 <p align="center">
-  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/degree_distribution.png?token=AK2UC2MLOB2Y55WECTVABDK73ICCA">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentNetwork.png?token=AK2UC2JR2SONG66LIJ2VE7K73IJ6W">
 </p>
 
 # **<span style="color:#8a7e4a">Content analysis</span>**
@@ -49,7 +49,7 @@ When it comes to the language used, in the social media area it is very personal
 
 # **<span style="color:#8a7e4a">Sentiment of the communities</span>**
 <p align="center">
-  <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/average_sentiment_zodiac.png?token=AK2UC2IDQELLB4AEF4BIPV273HZVO">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentAverageSentimentZodiac.png?token=AK2UC2IE3OH2BIJ7CMVAR7C73IKCA">
 </p>
 
 
@@ -58,6 +58,4 @@ When it comes to the language used, in the social media area it is very personal
 </p>
 
 
-<p align="center">
-  <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/average_sentiment_community.png?token=AK2UC2L7EG5XB6KH5ZYQM4S73HZYK">
-</p>
+
