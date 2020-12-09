@@ -14,7 +14,7 @@ This network has a total of 2037 nodes and 124721 links. Each node is represente
 
 
 <p align="center">
-  <img width="550" height="550" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Network.jpeg?token=AK2UC2NGSOT56ZZSSYJLE5K73HRBY">
+  <img width="750" height="550" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Network.jpeg?token=AK2UC2NGSOT56ZZSSYJLE5K73HRBY">
 </p>
 
 ![Network](Network.jpeg)
