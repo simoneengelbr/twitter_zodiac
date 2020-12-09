@@ -17,8 +17,6 @@ This network has a total of 2037 nodes and 124721 links. Each node is represente
   <img width="1000" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Network.jpeg?token=AK2UC2NGSOT56ZZSSYJLE5K73HRBY">
 </p>
 
-![Network](Network.jpeg)
-
 At a first look, this representation does not provide many information. Many people might ask: good, but what does this mean? However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
 ![InOutDegree](InOutDegree.jpg)
 
