@@ -30,9 +30,7 @@ The following wordclouds display the most relevant words tweeted by each zodiac 
 
 ![ZodiacSigns](ZodiacSigns.png)
 
-At a first look, the words displayed in the wordclouds seem random,
-
-but at a closer look it can be noticed that some words have powerful meaning. As an example, for the water signs we find words like culpable, 
+The resulting word clouds are not obviously meaningful. This could in part be due to the very broad content on twitter, and in that regard, the dataset of tweets is not particularly large, and unusual topics will stand out. 
 
 # **<span style="color:#8a7e4a">Communities</span>**
 
@@ -60,5 +58,5 @@ To analyze the sentiment the dataset **[AFINN](https://github.com/fnielsen/afinn
   <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?token=AK2UC2IQNKKA34VJIBFNOI273IT7I">
 </p>
 
-Both the signs and the communities use positive words in their tweets. This could be interpreted that, as most of the users in the network are public figures, usually thei use their twitter accounts to promote their content and therefore tweet words with more positive sentiment.
+Both the signs and the communities use positive words in their tweets. This could be interpreted that, as most of the users in the network are public figures, usually they use their Twitter accounts to promote their content and therefore tweet words with more positive sentiment.
 
