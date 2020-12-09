@@ -51,6 +51,7 @@ When it comes to the language used, in the social media area it is very personal
 <p align="center">
   <img width="1200" height="350" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/average_sentiment_zodiac.png?token=AK2UC2IDQELLB4AEF4BIPV273HZVO">
 </p>
+
 ![Transparent](Transparent.png)
 
 <p align="center">
