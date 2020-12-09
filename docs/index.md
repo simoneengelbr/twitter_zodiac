@@ -36,3 +36,5 @@ When it comes to the language used, in the social media area it is very personal
 ![Element_distribution_communities](Element_distribution_communities.png)
 
 # **<span style="color:#8a7e4a">Sentiment of the communities</span>**
+![average_sentiment_zodiac](average_sentiment_zodiac.png)
+![average_sentiment_community](average_sentiment_community.png)
