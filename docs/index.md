@@ -13,13 +13,13 @@ The result is a dataset with information on famous people's twitter profiles. Th
 Before starting an in depth analysis, it's a good idea to first see what the network looks like. A total number of 2037 nodes and 124721 links constitute our network. Each node represents a Twitter user, colored by zodiac sign, and each link represents how users are connected by follows. In other words, this networks shows who is following who. Notice that some of the nodes are bigger than the others, this is because some people follow a lot of other people, like Barack Obama(598K), and some of them do not follow that many at all, like Cristiano Ronaldo(52). There are even cases when a personality does not follow anyone back, which is the case for Taylor Swift, Eminem, Adele, and more.
  
 <p align="center">
-  <img width="1200" height="950"  src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentNetwork.png?token=AK2UC2M5B4KT5JPRRZZXPNS73IIAU">
+  <img width="1200" height="950"  src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentNetwork.png?">
 </p>
 
 The in-out degree distribution graph is way of illustrating how the people in the network interact. The in-degree can be interpreted as the popularity of the personality among the other users of the platform and the out-degree the interest that a specific user has in another accounts. Usually we tend to follow the accounts that we find interesting. 
 
 <p align="center">
-  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentInOutDegreeDistribution.png?token=AK2UC2LNLJB2HSDV3TER74273IKWO">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentInOutDegreeDistribution.png?">
 </p>
 
 In the graph above, it can be seen that many users follow few or no other users in the network, but there are a few users that follow houndreds of others. In regards to followers, most people have less than 100 people in the network following them. This dynamic is typical for social networks.
@@ -40,14 +40,14 @@ So far, the analysis has focused on zodiac signs as a way to create different gr
 
 
 <p align="center">
-  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentCommunityDistribution.png?token=AK2UC2PVGJD7FV5OOKLEZGK73ILSO">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentCommunityDistribution.png?">
 </p>
 
 
 As mentioned, it is a common belief in astrology that some signs tend to be more compatible with others. If this were true, there may be a strong presence of compatible signs within communities. To check this, the zodiac distribution for each community is plotted in the graphs below.
 
 <p align="center">
-  <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentZodiacDistributionCommunities.png?token=AK2UC2LQVP4G5ZCLLN4OXXC73IG4E">
+  <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentZodiacDistributionCommunities.png?">
 </p>
 
 These graphs show a somewhat even spread in zodiac signs within communities, to the point that there are no significant compatabilities indicated.
@@ -55,7 +55,7 @@ These graphs show a somewhat even spread in zodiac signs within communities, to 
 However, the signs can be grouped into 4 elements. Astrology claims that signs within the same element are compatible, and each element has an opposite, compatible element. If this were true, finding the compatibility in the elements should be easier, as there are less combinations to compare. To check this, the element distribution inside each community is plotted. 
 
 <p align="center">
-  <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentElementDistributionCommunity.png?token=AK2UC2LK2PCHVZWQXWGW6SK73ILQM">
+  <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentElementDistributionCommunity.png?">
 </p>
 
 Here, the even distribution is even more apparent. Thus, astrologic signs have no apparent influence on community formation.
@@ -67,12 +67,12 @@ To analyze the sentiment the dataset **[AFINN](https://github.com/fnielsen/afinn
 
 Below is an analysis of the average sentiment (with a confidence interval determined from the standard deviation) of users in each zodiac sign. The plot shows little variation between zodiac signs, and indicates no significant difference between signs.
 <p align="center">
-  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentAverageSentimentZodiac.png?token=AK2UC2IE3OH2BIJ7CMVAR7C73IKCA">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentAverageSentimentZodiac.png?">
 </p>
 
 If we instead calculate average sentiment within communities, there is a much bigger difference:
 <p align="center">
-  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?token=AK2UC2IQNKKA34VJIBFNOI273IT7I">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?">
 </p>
 
 Both the signs and the communities use positive words in their tweets. This could be interpreted that, as most of the users in the network are public figures, usually they use their Twitter accounts to promote their content and therefore tweet words with more positive sentiment.
