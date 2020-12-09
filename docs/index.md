@@ -40,7 +40,7 @@ When it comes to the language used, in the social media area it is very personal
 </p>
 
 <p align="center">
-  <img width="1200" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Zodiac_distribution_communities.png?token=AK2UC2JG6WDTYRI6AST4OPS73H2F4">
+  <img width="1200" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentZodiacDistributionCommunities.png?token=AK2UC2LQVP4G5ZCLLN4OXXC73IG4E">
 </p>
 
 <p align="center">
