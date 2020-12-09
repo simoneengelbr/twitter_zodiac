@@ -6,16 +6,13 @@ With a little help from the Twitter API, the most followed accounts of famous pe
 
 # **<span style="color:#8a7e4a">How does the network looks like?</span>**
 
-Before starting analysing  
-The data that was gathered was first used to plot the network to have a quick overview on the connections. 
-This network has a total of 2037 nodes and 124721 links. Each node is represented by a personality's zodiac sign and each link represents how they are connected.  
-
-
+Before starting analysing in depth, a good idea is to first see how the network looks like. A total number of 2037 nodes and 124721 links constitutes the network. Each node represents a personality's zodiac sign and each link represents how they are connected. In other words, this networks shows who is following who. It can be noticed that some of the nodes are bigger than the other ones and this is because some of the people follow a lot of other people: Barack Obama(598K) and some of them do not follow that many people: Cristiano Ronaldo(52). There are also cases when a personality does not follow anyone back: Taylor Swift, Eminem, Adele.
+ 
 <p align="center">
   <img width="1200" height="950"  src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentNetwork.png?token=AK2UC2M5B4KT5JPRRZZXPNS73IIAU">
 </p>
 
-At a first look, this representation does not provide many information. Many people might ask: good, but what does this mean? However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
+The in-out degree distribution graph is another way of showing how people interact with each other. In-degree can be interpreted as the popularity of the personality among the other users of the platform and the out-degree the interest that a specific user has in another accounts. Usually we tend to follow the accounts that we find interesting. 
 
 <p align="center">
   <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentInOutDegreeDistribution.png?token=AK2UC2LNLJB2HSDV3TER74273IKWO">
@@ -23,7 +20,7 @@ At a first look, this representation does not provide many information. Many peo
 
 # **<span style="color:#8a7e4a">Content analysis</span>**
 
-When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is already known that some zodiac signs tend to be more sensible, other ones more harsh and others do not even want to share what they truly think with other people. 
+When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is already known that some zodiac signs tend to be more sensible, other ones more harsh and others do not even want to share what they truly think with other people. To get a better understanding 
  
 ![ElementWater](ElementWater.png)
 ![ElementEarth](ElementEarth.png)
