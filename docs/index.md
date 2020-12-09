@@ -34,13 +34,22 @@ The resulting word clouds are not obviously meaningful. This could in part be du
 
 # **<span style="color:#8a7e4a">Communities</span>**
 
+So far, the analysis has focused on zodiac signs as a way to create different groups to analyze in the network. However, this is not a proper scientific analysis, as they can be interpreted as arbitrary partitions. To find the real communities in the network, the Louvain Algorithm is used.
+
+
 <p align="center">
   <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentCommunityDistribution.png?token=AK2UC2PVGJD7FV5OOKLEZGK73ILSO">
 </p>
 
+
+As mentioned, it is a common beleif in astrology that some signs tend to be more compatible with others. If this were true, there may be a strong presence of compatible signs within communities. To check this, the zodiac distribution for each community is plotted.
+
 <p align="center">
   <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentZodiacDistributionCommunities.png?token=AK2UC2LQVP4G5ZCLLN4OXXC73IG4E">
 </p>
+
+
+However, the signs can be grouped into 4 elements. Astrology claims that signs within the same element are compatible, and each element has an opposite, compatible element. If this were true, finding the compatibility in the elements should be easier, as there are less combinations to compare. To check this, the element distribution inside each community is plotted. 
 
 <p align="center">
   <img width="1200" height="1400" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentElementDistributionCommunity.png?token=AK2UC2LK2PCHVZWQXWGW6SK73ILQM">
