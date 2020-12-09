@@ -40,8 +40,9 @@ When it comes to the language used, in the social media area it is very personal
   <img width="1000" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Zodiac_distribution_communities.png?token=AK2UC2JG6WDTYRI6AST4OPS73H2F4">
 </p>
 
-![Zodiac_distribution_communities](Zodiac_distribution_communities.png)
-![Element_distribution_communities](Element_distribution_communities.png)
+<p align="center">
+  <img width="1000" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Element_distribution_communities.png?token=AK2UC2PUN4ZTBMIARPP2GNK73H2X4">
+</p>
 
 # **<span style="color:#8a7e4a">Sentiment of the communities</span>**
 <p align="center">
