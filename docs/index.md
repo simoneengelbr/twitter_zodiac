@@ -49,6 +49,8 @@ but at a closer look it can be noticed that some words have powerful meaning. As
 </p>
 
 # **<span style="color:#8a7e4a">Sentiment of the communities</span>**
+To analyze the sentiment the dataset **[AFINN](https://github.com/fnielsen/afinn)** was used. It was developed specifically to analyse tweets, as tweets include slang terms like 'lol'. This dataset rates words with a positive or negative value based on their sentiment.
+
 <p align="center">
   <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentAverageSentimentZodiac.png?token=AK2UC2IE3OH2BIJ7CMVAR7C73IKCA">
 </p>
@@ -58,5 +60,5 @@ but at a closer look it can be noticed that some words have powerful meaning. As
   <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?token=AK2UC2IQNKKA34VJIBFNOI273IT7I">
 </p>
 
-
+Both the signs and the communities use positive words in their tweets. This could be interpreted that, as most of the users in the network are public figures, usually thei use their twitter accounts to promote their content and therefore tweet words with more positive sentiment.
 
