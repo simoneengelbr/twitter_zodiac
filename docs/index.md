@@ -29,7 +29,10 @@ When it comes to the language used, in the social media area it is very personal
 ![ElementFire](ElementFire.png)
 ![ElementAir](ElementAir.png)
 
-# **<span style="color:#8a7e4a">Sentiment of the tweets</span>**
-# **<span style="color:#8a7e4a">Comunities</span>**
+
+# **<span style="color:#8a7e4a">Communities</span>**
+![community_distribution](community_distribution.png)
 ![Zodiac_distribution_communities](Zodiac_distribution_communities.png)
 ![Element_distribution_communities](Element_distribution_communities.png)
+
+# **<span style="color:#8a7e4a">Sentiment of the communities</span>**
