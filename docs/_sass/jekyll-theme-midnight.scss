@@ -8,7 +8,7 @@ body {
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#f0e7d5;
   font-weight: normal;
-  background: url("https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/_sass/NightSky.png?token=AK2UC2IVYPM7PU2RH2NNQTS73IZMW") no-repeat center fixed;
+  background: url("https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/_sass/NightSky.png?") no-repeat center fixed;
   background-size: cover;
   background-attachment: fixed !important;
  
@@ -154,6 +154,13 @@ dt {
   font-weight: normal;
 }
 
+#header {
+  z-index: 100;
+  left:0;
+  top: 0px;
+  height: 60px;
+  width: 100%;
+  position: fixed;
  nav {
     max-width: 1200px;
     margin: 0 auto;
@@ -210,7 +217,7 @@ dt {
       }
     }
   }
-
+}
 
 section {
   max-width:1200px;
