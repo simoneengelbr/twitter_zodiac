@@ -4,7 +4,7 @@ description: Lucía Montesinos García, Irina Ioana Avadanei, Simone Elisabeth E
 show_downloads: true
 navbar-links:
  Resouces: 
-  -Explainer notebook: 
+  -Explainer notebook: "https://github.com/simoneengelbr/twitter_zodiac"
 theme: jekyll-theme-midnight
 
 
