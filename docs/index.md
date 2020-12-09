@@ -8,9 +8,14 @@ With a little help from the Twitter API, the most followed accounts of famous pe
 
 # **<span style="color:#8a7e4a">How does the network looks like?</span>**
 
-Before starting analysing 
+Before starting analysing  
 The data that was gathered was first used to plot the network to have a quick overview on the connections. 
 This network has a total of 2037 nodes and 124721 links. Each node is represented by a personality's zodiac sign and each link represents how they are connected.  
+
+
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Network.jpeg?token=AK2UC2NGSOT56ZZSSYJLE5K73HRBY">
+</p>
 
 ![Network](Network.jpeg)
 
