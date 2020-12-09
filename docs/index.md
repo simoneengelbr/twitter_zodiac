@@ -28,17 +28,7 @@ When it comes to the language used, in the social media area it is very personal
 
 The following wordclouds display the most relevant words tweeted by each zodiac sign. To be able to accomplish this, the term frequency–inverse document frequency (TF-IDF) was used. 
 
-## **<span style="color:#8a7e4a">Water</span>**
-![ElementWater](ElementWater.png)
-  
-## **<span style="color:#8a7e4a">Earth</span>**
-![ElementEarth](ElementEarth.png)
-  
-## **<span style="color:#8a7e4a">Fire</span>**
-![ElementFire](ElementFire.png)
-  
-## **<span style="color:#8a7e4a">Air</span>**
-![ElementAir](ElementAir.png)
+![ZodiacSigns](ZodiacSigns.png)
 
 At a first look, the words displayed in the wordclouds seem random,
 
