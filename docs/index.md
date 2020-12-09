@@ -33,7 +33,7 @@ When it comes to the language used, in the social media area it is very personal
 # **<span style="color:#8a7e4a">Communities</span>**
 
 <p align="center">
-  <img width="1000" height="650" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/community_distribution.png?token=AK2UC2PIWU7MEVB5Y5LG7WC73HZIQ">
+  <img width="1000" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/community_distribution.png?token=AK2UC2PIWU7MEVB5Y5LG7WC73HZIQ">
 </p>
 
 ![community_distribution](community_distribution.png)
