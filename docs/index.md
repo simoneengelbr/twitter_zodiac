@@ -24,7 +24,9 @@ The in-out degree distribution graph is another way of showing how people intera
 
 # **<span style="color:#8a7e4a">Content analysis</span>**
 
-When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is assumed that some zodiac signs tend to be more sensible, some more harsh, while others don't even want to share what they truly think with other people. To get a better understanding 
+When it comes to the language used, in the social media area it is very personal. This is because when someone writes on the internet, that person is actually stating his opinion. Taking into consideration the astology factor, it is assumed that some zodiac signs tend to be more sensible, some more harsh, while others don't even want to share what they truly think with other people. However, this does not entirely apply to public figures as for some of them, their personal account  is being managed by their PR or CM. 
+
+The following wordclouds display the most relevant words tweeted by each zodiac sign. To be able to accomplish this, the term frequency–inverse document frequency (TF-IDF) was used. 
 
 ## **<span style="color:#8a7e4a">Water</span>**
 ![ElementWater](ElementWater.png)
@@ -38,6 +40,9 @@ When it comes to the language used, in the social media area it is very personal
 ## **<span style="color:#8a7e4a">Air</span>**
 ![ElementAir](ElementAir.png)
 
+At a first look, the words displayed in the wordclouds seem random,
+
+but at a closer look it can be noticed that some words have powerful meaning. As an example, for the water signs we find words like culpable, 
 
 # **<span style="color:#8a7e4a">Communities</span>**
 
