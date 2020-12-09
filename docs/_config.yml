@@ -1,12 +1,9 @@
 title: <span style="color:#8A7E4A">The Cosmic Side of Twitter</span>
 logo: HeaderImage.jpg
 description: Lucía Montesinos García, Irina Ioana Avadanei, Simone Elisabeth Engelbrecht
-show_downloads: true
+show_downloads: false
 github:
   repository_url: https://github.com/simoneengelbr/twitter_zodiac
-navbar-links:
- Resouces: 
-  -Explainer notebook: "https://github.com/simoneengelbr/twitter_zodiac"
 theme: jekyll-theme-midnight
 
 
