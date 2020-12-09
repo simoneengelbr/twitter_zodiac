@@ -56,7 +56,7 @@ When it comes to the language used, in the social media area it is very personal
 
 
 <p align="center">
-  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?token=AK2UC2MSNPSAO5Q6ECCDW2K73IDYU">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Transparent.png?token=AK2UC2IQNKKA34VJIBFNOI273IT7I">
 </p>
 
 
