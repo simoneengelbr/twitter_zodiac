@@ -10,7 +10,7 @@ With this idea in mind, we decided to work with Twitter accounts of famous peopl
 
 # **<span style="color:#8a7e4a">What does the network look like?</span>**
 
-Before starting an in depthanalysis, it's a good idea to first see what the network looks like. A total number of 2037 nodes and 124721 links constitutes the network. Each node represents a Twitter user, colored by zodiac sign, and each link represents how users are connected by follows. In other words, this networks shows who is following who. Notice that some of the nodes are bigger than the others, this is because some people follow a lot of other people, like Barack Obama(598K), and some of them do not follow that many at all, like Cristiano Ronaldo(52). There are even cases when a personality does not follow anyone back, which is the case for Taylor Swift, Eminem, Adele, and more.
+Before starting an in depth analysis, it's a good idea to first see what the network looks like. A total number of 2037 nodes and 124721 links constitute the network. Each node represents a Twitter user, colored by zodiac sign, and each link represents how users are connected by follows. In other words, this networks shows who is following who. Notice that some of the nodes are bigger than the others, this is because some people follow a lot of other people, like Barack Obama(598K), and some of them do not follow that many at all, like Cristiano Ronaldo(52). There are even cases when a personality does not follow anyone back, which is the case for Taylor Swift, Eminem, Adele, and more.
  
 <p align="center">
   <img width="1200" height="950"  src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/TransparentNetwork.png?token=AK2UC2M5B4KT5JPRRZZXPNS73IIAU">
