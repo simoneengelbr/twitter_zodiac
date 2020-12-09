@@ -14,13 +14,13 @@ This network has a total of 2037 nodes and 124721 links. Each node is represente
 
 
 <p align="center">
-  <img width="1200" height="450"  src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Network.jpeg?token=AK2UC2NGSOT56ZZSSYJLE5K73HRBY">
+  <img width="1200" height="950"  src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/Network.jpeg?token=AK2UC2NGSOT56ZZSSYJLE5K73HRBY">
 </p>
 
 At a first look, this representation does not provide many information. Many people might ask: good, but what does this mean? However, if the focus is moved to the in-out degree it can be easily seen that when it comes to the out degree so 
 
 <p align="center">
-  <img width="1200" height="950" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/degree_distribution.png?token=AK2UC2MLOB2Y55WECTVABDK73ICCA">
+  <img width="1200" height="450" src="https://raw.githubusercontent.com/simoneengelbr/twitter_zodiac/main/docs/degree_distribution.png?token=AK2UC2MLOB2Y55WECTVABDK73ICCA">
 </p>
 
 # **<span style="color:#8a7e4a">Content analysis</span>**
