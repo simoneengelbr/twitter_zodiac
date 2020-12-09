@@ -77,4 +77,4 @@ If we instead calculate average sentiment within communities, there is a much bi
 
 Both the signs and the communities use positive words in their tweets. This could be interpreted that, as most of the users in the network are public figures, usually they use their Twitter accounts to promote their content and therefore tweet words with more positive sentiment.
 
-Throughout the analysis, no significant differences have been found between users of different zodiac signs, despite tackling the data from different angles. Therefore, based on the data of over 2000 popular users on twitter, we cannot determine that astrology has an influence on people in regards to personality or compatability.
+Throughout the analysis, no significant differences have been found between users of different zodiac signs, despite tackling the data from different angles. Therefore, based on the data of over 2000 popular users on twitter, we cannot determine that astrology has an influence on people in regards to personality or compatibility.
